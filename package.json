@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "http": "0.0.0",
-    "request": "^2.79.0"
+    "body-parser": "^1.17.1",
+    "consolidate": "^0.14.5",
+    "express": "^4.15.2",
+    "handlebars": "^4.0.6",
+    "request": "^2.79.0",
+    "url": "^0.11.0"
   }
 }
